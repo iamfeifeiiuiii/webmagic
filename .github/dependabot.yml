@@ -33,6 +33,7 @@ updates:
     directory: "/webmagic-selenium"
     schedule:
       interval: "daily"     
+    open-pull-requests-limit: 0  
   - package-ecosystem: "maven"
     directory: "/"
     schedule:
